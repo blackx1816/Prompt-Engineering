@@ -16,5 +16,5 @@ In diesem Repository findest du meine ersten fünf Prompts, basierend auf meinen
 Jeder Prompt ist in einer eigenen Datei dokumentiert und enthält:
 
 - Den Prompt-Text
-- Ziel und Kontext
+- Ziel & Kontext
 - ggf. Beispiel-Output oder Reflektionen
