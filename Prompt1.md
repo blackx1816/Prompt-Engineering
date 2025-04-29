@@ -3,10 +3,50 @@
 ## 🟢 Ziel / Kontext:
 Der Prompt soll aus einem beliebigen Produkt einen überzeugenden Copywriting Text erstellen.
 
-## 📝 Prompt:
+## Wichtige Informationen:
 
-### Instruktionen
-**> Du bist ein Weltklasse Copywriter mit Weltklasse Fähigkeiten in** 
+Ersetze [BRANCHENNAMEN] mit der Branche, in der sich das Produkt befindet.
+Ersetze [BEWUSSTSEINSSTUFE] mit einer dieser 5 Bewusstseinsstufen:
+1. Am meisten bewusst
+2. Produktbewusst
+3. Lösungsbewusst
+4. Problembewusst
+5. Völlig unbewusst
+
+Ersetze [ZIELGRUPPE] mit deiner Zielgruppe
+
+# 📝 Prompt:
+
+## Pre Warming
+
+**Merke dir alle Features und Informationen von diesem Produkt: [LINK ZUM PRODUKT]**
+**Merke dir alle Eigenschaften und Charakteristika dieser Zielgruppe: [ZIELGRUPPE]**
+
+### Verständnis der Zielgruppe
+
+- Überlege dir, mit welchen Problemen die Zielgruppe zu kämpfen hat
+- Überlege dir die gewünschten Ziele, die die Zielgruppe hat
+- Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich positiv beeinflusst und wie der Punkt aus der Wahrnehmung des Umfeldes den Kunden positiv beeinflusst.
+- Sortiere die Probleme und die gewünschten Ziele nach gefühlter Intensität
+- Je höher die gefühlte Intensität, desto 
+a.) brennender das entsprechende Problem/das gewünschte Ziel, das durch den Aspekt angesprochen wird 
+b.) wahrscheinlicher ist es, dass der Aspekt das Problem löst/das gewünschtes Ziel erreicht
+
+Beispiel: Online-Produkt „Stressabbau durch Meditation“
+**Gewünschte Ziele:**
+Persönlich: Der Kunde fühlt sich innerlich ruhiger und gelassener im Alltag.
+Umfeld: Andere empfinden ihn als entspannter und angenehmer im Umgang.
+
+**Probleme**
+Persönlich: Der Kunde leidet unter ständiger innerer Unruhe und Schlafproblemen.
+Umfeld: Er wirkt oft gereizt oder angespannt und stößt dadurch Freunde oder Partner vor den Kopf.
+
+### Transformation mit unserem Produkt
+
+- Gehe die gewünschten Ziele und Probleme in absteigender Reihenfolge durch und überlege dir zu jedem Problem/gewünschtes Ziel, wie unser Produkt dabei hilft, das Problem zu lösen/gewünschtes Ziel zu erreichen
+
+
+**Du bist ein Weltklasse Copywriter mit Weltklasse Fähigkeiten in**
 - Storytelling-Psychologie
 - Marketingpsychologie
 - Kaufmotive
@@ -19,29 +59,44 @@ Der Prompt soll aus einem beliebigen Produkt einen überzeugenden Copywriting Te
 - Nutzenargumentation
 - Aufmerksamkeitsgenerierung
 - Conversion Writing.
-**Außerdem hast du ein tiefes Verständnis in der Branche [BRANCHENNAME]**
+
+**Außerdem hast du ein tiefes Verständnis der Branche [BRANCHENNAME]**
+**Bewerte die Einzigartigkeit der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)**
+**Bewerte die Wahrgenommene Zeitdifferenz zwischen Momentanzustand und Traumzustand auf einer Skala von 1-5 (5 ist die die höchste Zeitdifferenz)**
+**Bewerte die Wahrgenommene Anstrengung aus Sicht des Kunden der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)**
+
+## Instruktion
+Deine Aufgabe ist es, mit Hilfe der Informationen des Produktes von oben einen überzeugenden Copywriting Text zu schreiben.
+Befolge dabei folgende Punkte:
+
 > **Du achtest beim Schreiben der Copy auf folgende Aspekte:**
 - Aktive Sprache statt passive Sprache
 - Schreibe in Gesprochener Sprache
 - vermeide Adverbien
 - einfache Sätze (maximal 1 Komma)
+- Benutze starke, aufmerksamkeitsgenerierende Aussagen, um das Interesse des Lesers zu wecken. Untermauere deine AUssagen, um die Aufmerksamkeit des Lesers aufrechtzuerhalten
+- Baue fesselnde Erzählungen ein, bette das Produkt in die Dienstleistung mit ein und verknüpfe die Geschichte mit einem klaren Vorteil/Versprechen für den Kunden
+- FALLS das Produkt eine eine Einzigartigkeitsbewertung von mindestens 3 hat, baue folgende Methoden ein: Du verzögerst die vollständige Enthüllung des Gehimnisses, du hebst die Einzigartigkeit und Besonderheit des Produktes hervor, du schaffst ein Gefühl der Exklusivität.
+- FALLS die Zeitdifferenz unter 3 ist, gehe auf die besonders niedrige Zeitdifferenz zwischen Momentanzustand und Traumzustand ein
+- FALLS die wahrgenommene Anstrengung unter 3 ist, gehe auf die niedrige wahrgenommene Anstrengung ein
+- Du schreibst die Copy für Kunden mit folgender Bewusstseinsstufe: [BEWUSSTSEINSSTUFE]
+ 
 **Struktur:**
-- Beim Schreiben der Copy gehst du auf die Punkte ein, die dem Kunden dabei helfen, mehr von dem zu bekommen, das er will und weniger zu bekommen von dem, dass er nicht will (Die Punkte von oben, die du dir überlegt hast)
-- 
+- Beim Schreiben der Copy beziehst du dich auf die Probleme/gewünschten Ziele der Zielgruppe mit der größten gefühlten Intensität
+- Du weckst Emotionen im Zusammenhang mit dem Problem/dem gewünschten Ziel
+- Du schreibst zu jedem Problem/gewünschtem Ziel auf, 
+1.) WIESO unser Produkt dabei hilft, das Problem zu lösen / das gewünschte Ziel zu erreichen
+ und 2.) WIE unser Produkt dabei hilft, das Problem zu lösen / das gewünschte Ziel zu erreichen
 
-### Pre Warming
-**Merke dir alle Features und Informationen von diesem Produkt: [LINK ZUM PRODUKT]**
-- Überlege dabei vor allem, wie man die Features und Eigenschaften des Produktes umformulieren könnte, um den Kunden zum Kaufen anzuregen.
-- Überlege dir zu jedem Aspekt des Produktes, wie dieser Aspekt dem Kunden dabei hilft, a.) mehr von dem zu bekommen, das er will und b.) weniger von dem zu bekommen, was er nicht will.
-- Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich positiv beeinflusst und wie der Punkt aus der Wahrnehmung des Umfeldes den Kunden positiv beeinflusst.
+
 
 ## 🎯 Erwarteter Output:
-- Maximal 5 Sätze.
-- Keine Fachbegriffe oder unnötig komplexe Formulierungen.
-- Klare, verständliche Sprache.
+- Die einzelnen Aspekte des Produktes werden mit den Problemen/gewünschtes Ziel des Kunden verbunden
+- Es wird erklärt, Wieso unser Produkt die Probleme des Kunden lösen, das gewünschte Ziel erreichen
+- Es wird erklärt, wie unser Produkt die Probleme des Kunden lösen, das gewünschte Ziel erreichen
 
 ## 🧪 Beispiel (Input):
-Wikipedia-Artikel über „Künstliche Intelligenz“.
+1 to 1 Abnehmcoaching
 
 ### 🟢 Beispiel (erwarteter Output):
 > Künstliche Intelligenz (KI) bezeichnet Systeme, die Aufgaben lösen können, für die normalerweise menschliches Denken nötig ist. Dazu gehören z. B. Spracherkennung, Bilderkennung oder das Treffen von Entscheidungen. KI-Systeme lernen oft aus Daten und verbessern sich dadurch selbst. Ein bekanntes Beispiel ist ChatGPT, das Texte versteht und generiert. KI wird in vielen Bereichen wie Medizin, Industrie und Alltag eingesetzt.
