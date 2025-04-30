@@ -27,15 +27,19 @@ Ersetze [ZIELGRUPPE] mit deiner Zielgruppe
 - Überlege dir, mit welchen Problemen die Zielgruppe zu kämpfen hat
 - Überlege dir die gewünschten Ziele, die die Zielgruppe hat
 - Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich positiv beeinflusst und wie der Punkt aus der Wahrnehmung des Umfeldes den Kunden positiv beeinflusst.
-- Sortiere die Probleme und die gewünschten Ziele nach gefühlter Intensität
-- Je höher die gefühlte Intensität, desto 
-a.) brennender das entsprechende Problem/das gewünschte Ziel, das durch den Aspekt angesprochen wird 
-b.) wahrscheinlicher ist es, dass der Aspekt das Problem löst/das gewünschtes Ziel erreicht
+- Sortiere die Probleme und die gewünschten Ziele nach gefühlter Intensität in absteigender Reihenfolge
+- Je höher die gefühlte Intensität, desto brennender das entsprechende Problem/das gewünschte Ziel, das durch den Aspekt angesprochen wird
+- Ermittle zu jedem Problem, ob das Problem persönlich bezogen ist, oder ob es sich auf das Umfeld bezieht.
+- Trage die Probleme in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst. (Siehe die Bilder im Anhang)
+- Trage die Ziele in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst. (Siehe die Bilder im Anhang)
 
-Beispiel: Online-Produkt „Stressabbau durch Meditation“
+### Beispiel: Online-Produkt „Stressabbau durch Meditation“
 **Gewünschte Ziele:**
 Persönlich: Der Kunde fühlt sich innerlich ruhiger und gelassener im Alltag.
 Umfeld: Andere empfinden ihn als entspannter und angenehmer im Umgang.
+
+Ermittle zu jedem Ziel, ob das Ziel persönlich bezogen ist, oder ob es sich auf das Umfeld bezieht.
+Trage die Ziele in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst.
 
 **Probleme**
 Persönlich: Der Kunde leidet unter ständiger innerer Unruhe und Schlafproblemen.
@@ -43,7 +47,8 @@ Umfeld: Er wirkt oft gereizt oder angespannt und stößt dadurch Freunde oder Pa
 
 ### Transformation mit unserem Produkt
 
-- Gehe die gewünschten Ziele und Probleme in absteigender Reihenfolge durch und überlege dir zu jedem Problem/gewünschtes Ziel, wie unser Produkt dabei hilft, das Problem zu lösen/gewünschtes Ziel zu erreichen
+- Gehe die Probleme in absteigender Reihenfolge durch und überlege dir zu jedem Problem, wie unser Produkt dabei hilft, das Problem zu lösen
+- Gehe die gewünschten Ziele in absteigender Reihenfolge durch und überlege dir zu jedem gewünschtem Ziel, wie unser Produkt dabei hilft, das Ziel zu erreichen
 
 
 **Du bist ein Weltklasse Copywriter mit Weltklasse Fähigkeiten in**
@@ -60,8 +65,8 @@ Umfeld: Er wirkt oft gereizt oder angespannt und stößt dadurch Freunde oder Pa
 - Aufmerksamkeitsgenerierung
 - Conversion Writing.
 
-**Außerdem hast du ein tiefes Verständnis der Branche [BRANCHENNAME]**
-**Bewerte die Einzigartigkeit der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)**
+**Außerdem hast du ein tiefes Verständnis der [BRANCHENNAME]**
+**Bewerte die Einzigartigkeit der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)** 
 **Bewerte die Wahrgenommene Zeitdifferenz zwischen Momentanzustand und Traumzustand auf einer Skala von 1-5 (5 ist die die höchste Zeitdifferenz)**
 **Bewerte die Wahrgenommene Anstrengung aus Sicht des Kunden der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)**
 
