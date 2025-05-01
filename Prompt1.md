@@ -24,31 +24,38 @@ Ersetze [ZIELGRUPPE] mit deiner Zielgruppe
 
 ### Verständnis der Zielgruppe
 
-- Überlege dir, mit welchen Problemen die Zielgruppe zu kämpfen hat
-- Überlege dir die gewünschten Ziele, die die Zielgruppe hat
-- Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich positiv beeinflusst und wie der Punkt aus der Wahrnehmung des Umfeldes den Kunden positiv beeinflusst.
-- Sortiere die Probleme und die gewünschten Ziele nach gefühlter Intensität in absteigender Reihenfolge
+- Überlege dir, "Hin-zu-Zustände" und "Weg-von-Zustände"
+
+- Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich beeinflusst und wie der Punkt aus der Wahrnehmung anderer Menschen den Kunden beeinflusst.
+
+
+
+**Beispiel Früher Aufstehen:**:
+
+Hin-zu-Zustände:
+
+Persönlich: Gefühl von Kontrolle über den Tag, produktiver Start
+Wahrnehmung anderer: Wird als organisiert, motiviert und „Macher-Typ“ gesehen
+
+Weg-von-Zustände:
+
+Persönlich: Stress und Hektik am Morgen, Selbstvorwürfe
+Wahrnehmung anderer: Gilt als unstrukturiert, unzuverlässig oder träge
+
+
+
+- Sortiere die "Hin-zu-Zustände" und die "Weg-von-Zustände" nach gefühlter Intensität in absteigender Reihenfolge
 - Je höher die gefühlte Intensität, desto brennender das entsprechende Problem/das gewünschte Ziel, das durch den Aspekt angesprochen wird
-- Ermittle zu jedem Problem, ob das Problem persönlich bezogen ist, oder ob es sich auf das Umfeld bezieht.
-- Trage die Probleme in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst. (Siehe die Bilder im Anhang)
-- Trage die Ziele in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst. (Siehe die Bilder im Anhang)
 
-### Beispiel: Online-Produkt „Stressabbau durch Meditation“
-**Gewünschte Ziele:**
-Persönlich: Der Kunde fühlt sich innerlich ruhiger und gelassener im Alltag.
-Umfeld: Andere empfinden ihn als entspannter und angenehmer im Umgang.
-
-Ermittle zu jedem Ziel, ob das Ziel persönlich bezogen ist, oder ob es sich auf das Umfeld bezieht.
-Trage die Ziele in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Umfeld gruppierst.
-
-**Probleme**
-Persönlich: Der Kunde leidet unter ständiger innerer Unruhe und Schlafproblemen.
-Umfeld: Er wirkt oft gereizt oder angespannt und stößt dadurch Freunde oder Partner vor den Kopf.
+- Trage die Hin-zu-Zustände in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Wahrnehmung anderer Menschen gruppierst. (Siehe die Bilder im Anhang)
+- Trage die Weg-von-Zustände in einer 2-spaltigen Tabelle ein, indem du die Spalten nach Persönlich und Wahrnehmung anderer Menschen gruppierst. (Siehe die Bilder im Anhang)
 
 ### Transformation mit unserem Produkt
 
-- Gehe die Probleme in absteigender Reihenfolge durch und überlege dir zu jedem Problem, wie unser Produkt dabei hilft, das Problem zu lösen
-- Gehe die gewünschten Ziele in absteigender Reihenfolge durch und überlege dir zu jedem gewünschtem Ziel, wie unser Produkt dabei hilft, das Ziel zu erreichen
+- Gehe die Hin-zu-Zustände in absteigender Reihenfolge durch und überlege dir zu jedem Aspekt, wie unser Produkt dabei hilft, das Problem zu lösen
+- Gehe die Weg-von-Zustände in absteigender Reihenfolge durch und überlege dir zu jedem Aspekt, wie unser Produkt dabei hilft, das Ziel zu erreichen
+### Hinweis:
+GEHE NUR AUF PUNKTE EIN, DIE EXPLIZIT IN UNSEREM PRODUKT ENTHALTEN SIND. DENKE DIR KEINE SACHEN AUS UND GIB MIR ZU JEDEM PUNKT EINE ZITIERUNG!
 
 
 **Du bist ein Weltklasse Copywriter mit Weltklasse Fähigkeiten in**
@@ -74,24 +81,35 @@ Umfeld: Er wirkt oft gereizt oder angespannt und stößt dadurch Freunde oder Pa
 Deine Aufgabe ist es, mit Hilfe der Informationen des Produktes von oben einen überzeugenden Copywriting Text zu schreiben.
 Befolge dabei folgende Punkte:
 
-> **Du achtest beim Schreiben der Copy auf folgende Aspekte:**
+**Du achtest beim Schreiben der Copy auf folgende Aspekte:**
+**Sprachlich:**
 - Aktive Sprache statt passive Sprache
 - Schreibe in Gesprochener Sprache
 - vermeide Adverbien
 - einfache Sätze (maximal 1 Komma)
-- Benutze starke, aufmerksamkeitsgenerierende Aussagen, um das Interesse des Lesers zu wecken. Untermauere deine AUssagen, um die Aufmerksamkeit des Lesers aufrechtzuerhalten
+
+**Inhaltlich:**
+
+- Benutze starke, aufmerksamkeitsgenerierende Aussagen, um das Interesse des Lesers zu wecken. Untermauere deine Aussagen, um die Aufmerksamkeit des Lesers aufrechtzuerhalten
 - Baue fesselnde Erzählungen ein, bette das Produkt in die Dienstleistung mit ein und verknüpfe die Geschichte mit einem klaren Vorteil/Versprechen für den Kunden
-- FALLS das Produkt eine eine Einzigartigkeitsbewertung von mindestens 3 hat, baue folgende Methoden ein: Du verzögerst die vollständige Enthüllung des Gehimnisses, du hebst die Einzigartigkeit und Besonderheit des Produktes hervor, du schaffst ein Gefühl der Exklusivität.
+- Vermeide Logikbrüche
+**Beispiel:**
+Wenn du Muskeln aufbauen willst, dann musst du Resistenztraining machen
+-> Wenn du Resistenztraining machst, dann musst du ins Gym gehen
+-> Wenn du ins Gym gehst, musst du einen zugeschnittenen Plan haben
+- Verwende 
+
+- FALLS das Produkt eine eine Einzigartigkeitsbewertung von mindestens 3 hat, baue folgende Methoden ein: Du verzögerst die vollständige Enthüllung des Geheimnisses, du hebst die Einzigartigkeit und Besonderheit des Produktes hervor, du schaffst ein Gefühl der Exklusivität.
 - FALLS die Zeitdifferenz unter 3 ist, gehe auf die besonders niedrige Zeitdifferenz zwischen Momentanzustand und Traumzustand ein
 - FALLS die wahrgenommene Anstrengung unter 3 ist, gehe auf die niedrige wahrgenommene Anstrengung ein
 - Du schreibst die Copy für Kunden mit folgender Bewusstseinsstufe: [BEWUSSTSEINSSTUFE]
  
 **Struktur:**
-- Beim Schreiben der Copy beziehst du dich auf die Probleme/gewünschten Ziele der Zielgruppe mit der größten gefühlten Intensität
-- Du weckst Emotionen im Zusammenhang mit dem Problem/dem gewünschten Ziel
-- Du schreibst zu jedem Problem/gewünschtem Ziel auf, 
-1.) WIESO unser Produkt dabei hilft, das Problem zu lösen / das gewünschte Ziel zu erreichen
- und 2.) WIE unser Produkt dabei hilft, das Problem zu lösen / das gewünschte Ziel zu erreichen
+- Beim Schreiben der Copy beziehst du dich auf die Hin-zu/Weg-von-Zustände der Zielgruppe mit der größten gefühlten Intensität
+- Du schreibst den Text nach folgender Methode: Problem -> Agitation -> Solution - CTA
+- Du schreibst zu jedem Hin-zu/Weg-von-Zustand auf, 
+1.) WIESO unser Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
+ und 2.) WIE unser Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
 
 
 
