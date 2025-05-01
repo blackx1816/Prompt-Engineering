@@ -27,7 +27,8 @@ Ersetze [ZIELGRUPPE] mit deiner Zielgruppe
 - Überlege dir, "Hin-zu-Zustände" und "Weg-von-Zustände"
 
 - Beziehe dabei diese Punkte immer darauf, wie es den Kunden direkt persönlich beeinflusst und wie der Punkt aus der Wahrnehmung anderer Menschen den Kunden beeinflusst.
-
+- Jeder Hin-Zu-Zustand hat einen persönlichen Aspekt und einen Aspekt, der sich auf die Wahrnehmung anderer bezieht
+- Jeder Weg-Von-Zustand hat einen persönlichen Aspekt und einen Aspekt, der sich auf die Wahrnehmung anderer bezieht
 
 
 **Beispiel Früher Aufstehen:**:
@@ -55,7 +56,6 @@ Wahrnehmung anderer: Gilt als unstrukturiert, unzuverlässig oder träge
 - Gehe die Hin-zu-Zustände in absteigender Reihenfolge durch und überlege dir zu jedem Aspekt, wie unser Produkt dabei hilft, das Problem zu lösen
 - Gehe die Weg-von-Zustände in absteigender Reihenfolge durch und überlege dir zu jedem Aspekt, wie unser Produkt dabei hilft, das Ziel zu erreichen
 ### Hinweis:
-GEHE NUR AUF PUNKTE EIN, DIE EXPLIZIT IN UNSEREM PRODUKT ENTHALTEN SIND. DENKE DIR KEINE SACHEN AUS UND GIB MIR ZU JEDEM PUNKT EINE ZITIERUNG!
 
 
 **Du bist ein Weltklasse Copywriter mit Weltklasse Fähigkeiten in**
@@ -77,9 +77,29 @@ GEHE NUR AUF PUNKTE EIN, DIE EXPLIZIT IN UNSEREM PRODUKT ENTHALTEN SIND. DENKE D
 **Bewerte die Wahrgenommene Zeitdifferenz zwischen Momentanzustand und Traumzustand auf einer Skala von 1-5 (5 ist die die höchste Zeitdifferenz)**
 **Bewerte die Wahrgenommene Anstrengung aus Sicht des Kunden der Lösung auf einer Skala von 1-5 (5 ist die Höchstbewertung)**
 
+Gib mir deine Tabellen der Weg-Von-Zustände und der Hin-Zu-Zustände
+
+
 ## Instruktion
+
+
+Erstelle mir eine Überschrift mit Sub-Überschrift mit folgenden Kriterien:
+- Du adressierst die Zielgruppe
+- Du gehst auf den allgemeinen Mehrwert deines Produktes ein
+
+Beispiel: Meditations-Coaching für Selbstständige:
+Überschrift:
+Mehr Klarheit, weniger Stress – Meditation für Selbstständige mit Verantwortung
+
+Sub-Überschrift:
+Arbeite fokussierter, triff bessere Entscheidungen und bleib auch in stressigen Phasen mental stark – mit einem Coaching, das dir echte Ruhe in deinen Unternehmeralltag bringt.
+
+
+
 Deine Aufgabe ist es, mit Hilfe der Informationen des Produktes von oben einen überzeugenden Copywriting Text zu schreiben.
 Befolge dabei folgende Punkte:
+
+- Du schreibst die Copy für Kunden mit folgender Bewusstseinsstufe: [BEWUSSTSEINSSTUFE]
 
 **Du achtest beim Schreiben der Copy auf folgende Aspekte:**
 **Sprachlich:**
@@ -97,21 +117,18 @@ Befolge dabei folgende Punkte:
 Wenn du Muskeln aufbauen willst, dann musst du Resistenztraining machen
 -> Wenn du Resistenztraining machst, dann musst du ins Gym gehen
 -> Wenn du ins Gym gehst, musst du einen zugeschnittenen Plan haben
-- Verwende 
-
-- FALLS das Produkt eine eine Einzigartigkeitsbewertung von mindestens 3 hat, baue folgende Methoden ein: Du verzögerst die vollständige Enthüllung des Geheimnisses, du hebst die Einzigartigkeit und Besonderheit des Produktes hervor, du schaffst ein Gefühl der Exklusivität.
-- FALLS die Zeitdifferenz unter 3 ist, gehe auf die besonders niedrige Zeitdifferenz zwischen Momentanzustand und Traumzustand ein
-- FALLS die wahrgenommene Anstrengung unter 3 ist, gehe auf die niedrige wahrgenommene Anstrengung ein
-- Du schreibst die Copy für Kunden mit folgender Bewusstseinsstufe: [BEWUSSTSEINSSTUFE]
  
+
 **Struktur:**
-- Beim Schreiben der Copy beziehst du dich auf die Hin-zu/Weg-von-Zustände der Zielgruppe mit der größten gefühlten Intensität
-- Du schreibst den Text nach folgender Methode: Problem -> Agitation -> Solution - CTA
-- Du schreibst zu jedem Hin-zu/Weg-von-Zustand auf, 
-1.) WIESO unser Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
- und 2.) WIE unser Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
+- Du greifst die Hin-Zu-Zustände und Weg-Von-Zustände mit der hoher gefühlten Intensität auf
+- Du beschreibst die verbundenen negativen Emotionen mit den Weg-Von-Zuständen
+- Du beschreibst die verbundenen positiven Emotionen mit den Hin-Zu-Zuständen
+- Du beschreibst, wie schlimm das Leben in Zukunft aussieht, wenn sich der Weg-Von-Zustand nicht verbessert
+- Du beschreibst, wie gut das Leben in Zukunft aussieht, wenn der Hin-Zu-Zustand erreicht wird
+- Du erläuterst, a.)WIESO das Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
+und b.) WIE unser Produkt dabei hilft, den Hin-zu-Zustand zu erreichen / den Weg-von-Zustand nicht mehr zu haben
 
-
+GEHE NUR AUF PUNKTE EIN, DIE EXPLIZIT IN UNSEREM PRODUKT ENTHALTEN SIND. DENKE DIR KEINE SACHEN AUS UND GIB MIR ZU JEDEM PUNKT EINE ZITIERUNG! ANSONSTEN KÜNDIGT MICH MEIN CHEF!
 
 ## 🎯 Erwarteter Output:
 - Die einzelnen Aspekte des Produktes werden mit den Problemen/gewünschtes Ziel des Kunden verbunden
