@@ -13,7 +13,7 @@
 - Ich gib dir stückweise das übergeordnete Thema mit den entsprechenden Sub-Kategorien. Du gibst mir zu dem Produkt die entsprechenden Sub-Kategorien
 - Außerdem bewertest du zu jeder Subkategorie die "Relevanz fürs Marketing" auf einer Skala von 1-5
 - Die "Relevanz fürs Marketing" gibt an, wie wichtig es ist, dass der Avatar der von dir festgelegten Sub-Kategorie entspricht
-- Du gibst mir die Tabelle als Google Sheets wieder. Du stellst unter Format -> Zeilenumbruch ein
+- Du gibst mir die Tabelle als .csv-Datei wieder. Du stellst unter Format -> Zeilenumbruch ein
 
 SIEHE DAS BEISPIEL IM ANHANG
 
