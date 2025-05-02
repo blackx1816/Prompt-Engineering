@@ -27,42 +27,42 @@ SIEHE DAS BEISPIEL IM ANHANG
 
 ## Demographie
 
-Hauptast: Demographie
-Unteräste: Geschlecht, Altersgruppe, Sprache, Familiensituation, 
+Kategorie: Demographie
+Sub-Kategorie: Geschlecht, Altersgruppe, Sprache, Familiensituation, 
 Wohnort, Berufsgruppe, Wohnsituation, Bildungsniveau, Einkommensschicht, Nettovermögen
 
 ## Psychographie
 
-Hauptast: Psychographie
-Unteräste:  Hobbies, Interessen, Mediennutzung, Werte & Überzeugungen
+Kategorie: Psychographie
+Sub-Kategorie: Hobbies, Interessen, Mediennutzung, Werte & Überzeugungen
 Mediengewohnheiten, Einstellung/Werte, politische Sichtweisen, Persönlichkeitsmerkmale, 
 Ziele & Wünsche, Ängste & Sorgen, Glaubenssätze, Kaufverhalten
 
 ## Kaufverhalten 
 
-Hauptast: Kaufverhalten
-Unteräste: Informationsquellen vor dem Kauf, Entscheidungsverhalten (emotional vs. rational), 
+Kategorie: Kaufverhalten
+Sub-Kategorie: Informationsquellen vor dem Kauf, Entscheidungsverhalten (emotional vs. rational), 
 Preisbewusstsein, Kaufhäufigkeit, Entscheidungsdauer, Einfluss durch Dritte (z. B. Familie, Freunde)
 
 ## Hin-Zu-Motivation
 
-Hauptast: Hin-Zu-Motivation
-Unteräste: Ziele, Bedürfnisse, Hoffnungen, Träume
+Kategorie: Hin-Zu-Motivation
+Sub-Kategorie: Ziele, Bedürfnisse, Hoffnungen, Träume
 
 ## Weg-Von-Motivation
 
-Hauptast: Weg-Von-Motivation
-Unteräste: Probleme, Schmerzen, Frustration, Herausforderungen, Ängste
+Kategorie: Weg-Von-Motivation
+Sub-Kategorie: Probleme, Schmerzen, Frustration, Herausforderungen, Ängste
 
 ## Pain-Points/Probleme
 
-Hauptast: Pain-Points/Probleme
-Unteräste: Akute Probleme / Schmerzpunkte, Unerfüllte Bedürfnisse, Alltagsfrustrationen, 
+Kategorie: Pain-Points/Probleme
+Sub-Kategorie: Akute Probleme / Schmerzpunkte, Unerfüllte Bedürfnisse, Alltagsfrustrationen, 
 Emotionale, Hürden, Frühere Fehlversuche / schlechte Erfahrungen
 
 ## Medien- & Kommunikationsverhalten
 
-Hauptast: Medien- & Kommunikationsverhalten
-Unteräste: Bevorzugte Social-Media-Plattformen, Lieblingsformate (Video, Text, Podcast etc.), 
+Kategorie: Medien- & Kommunikationsverhalten
+Sub-Kategorie: Bevorzugte Social-Media-Plattformen, Lieblingsformate (Video, Text, Podcast etc.), 
 Sprachgebrauch / Wortwahl, Lieblingsinfluencer / Experten, 
 Communities & Foren, Informationsfrequenz (täglich, wöchentlich etc.)
