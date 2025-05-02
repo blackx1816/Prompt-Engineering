@@ -13,13 +13,7 @@
 - Ich gib dir stückweise das übergeordnete Thema mit den entsprechenden Sub-Kategorien. Du gibst mir zu dem Produkt die entsprechenden Sub-Kategorien
 - Außerdem bewertest du zu jeder Subkategorie die "Relevanz fürs Marketing" auf einer Skala von 1-5
 - Die "Relevanz fürs Marketing" gibt an, wie wichtig es ist, dass der Avatar der von dir festgelegten Sub-Kategorie entspricht
-
-/*  Beispiel:
-  Wir verkaufen ein hochpreisiges Fitnesscoaching
-  Du hast festgelegt, dass der Avatar ein überdurchschnittliches Einkommen haben muss
-  In diesem Fall hat das Einkommen eine hohe "Relevanz fürs Marketing", weil sich der Kunde ansonsten unser Produkt nicht leisten kann
-  Die Familiensituation hätte keine hohe "Relevanz fürs Marketing", weil es in Bezug auf unser Produkt keine Rolle spielt.
-  *\
+- Du gibst mir die Tabelle als Google Sheets wieder. Du stellst unter Format -> Zeilenumbruch ein
 
 SIEHE DAS BEISPIEL IM ANHANG
 
