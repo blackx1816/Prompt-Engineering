@@ -11,9 +11,7 @@
 - Deine Aufgabe ist es, zu einem Produkt meiner Wahl einen Kundenavatar zu identifizieren
 - Du erstellst mir Schritt für Schritt ein Diagramm, das in Kategorien meiner Wahl angeordnet ist
 - Ich gib dir Stück für Stück die Kategorie mit den entsprechenden Sub-Kategorien. Du gibst mir zu dem Produkt die entsprechenden Sub-Kategorien
-- Außerdem bewertest du zu jeder Subkategorie die "Relevanz fürs Marketing" auf einer Skala von 1-5
-- Die "Relevanz fürs Marketing" gibt an, wie wichtig es ist, dass der Avatar der von dir festgelegten Sub-Kategorie entspricht
-- Du gibst mir das Diagramm als PNG-Datei wieder. Du stellst unter Format -> Zeilenumbruch ein
+- Du gibst mir das Diagramm als PNG-Datei wieder.
 
 SIEHE DAS BEISPIEL IM ANHANG
 
