@@ -137,7 +137,8 @@ Mache mit Abschnitt 2 („Wie maximiert man mechanische Spannung im Training?“
 
 ### Antwort
 
-2. Wie maximiert man mechanische Spannung im Training?
+**Wie maximiert man mechanische Spannung im Training?**
+
 2.1 Das Problem mit zu seltener Belastung
 Viele Anfänger folgen klassischen „Bro-Split“-Trainingsplänen, bei denen jeder Muskel nur einmal pro Woche trainiert wird – zum Beispiel Brust am Montag, Rücken am Dienstag usw. Das Problem: Obwohl das Trainingsvolumen pro Einheit oft hoch ist, erhält der Muskel nur einen einzigen Reiz pro Woche.
 
@@ -166,7 +167,8 @@ Ich bat darum, den Aspekt "Rekrutierung der motorischen Einheiten" zu erwähnen,
 
 ### Antwort (V2)
 
-2. Wie maximiert man mechanische Spannung im Training?
+**Wie maximiert man mechanische Spannung im Training?**
+
 2.1 Das Problem mit zu seltener Belastung
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
 
@@ -207,7 +209,8 @@ Ich bat darum, die Punkte "Wachstumsreiz" und "Rekrutierung motorischer Einheite
 
 ### Antwort (V3)
 
-2. Wie maximiert man mechanische Spannung im Training?
+**Wie maximiert man mechanische Spannung im Training?**
+
 2.1 Das Problem mit zu seltener Belastung
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
 
@@ -249,6 +252,8 @@ Ich bat darum, Die "Lösung" (das Volumen auf mehrere Tage aufzuteilen), nicht i
 
 ### Antwort (V4)
 
+**Wie maximiert man mechanische Spannung im Training?**
+
 2.1 Das Problem mit zu seltener Belastung
 Viele Anfänger folgen klassischen „Bro-Split“-Trainingsplänen: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen trainiert – zum Beispiel Brust mit 15 bis 20 Sätzen am Montag. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelwachstums nicht ideal.
 
@@ -280,6 +285,8 @@ Ich bat darum, die Punkte a.) Proteinbiosynthese hält nur 48 Std. an (Atrophie)
 > Zu Abschnitt 2.1: - Stelle das Problem mit niedriger Frequenz dar, indem du die Faktoren 1. Proteinbiosynthese hält nur 48h an 2. Rekrutierung der motorischen Einheiten nimmt mit zunehmendem Volumen ab. getrennt präsentierst.
 
 ### Antwort (V5)
+
+**Wie maximiert man mechanische Spannung im Training?**
 
 2.1 Das Problem mit zu seltener Belastung
 Viele Trainierende setzen auf niedrige Trainingsfrequenz – typischerweise ein Muskel einmal pro Woche mit hohem Volumen. Auf dem Papier klingt das effizient: viel Arbeit auf einmal, viel Erschöpfung, großer Trainingsreiz. Doch aus physiologischer Sicht bringt dieser Ansatz zwei entscheidende Probleme mit sich:
