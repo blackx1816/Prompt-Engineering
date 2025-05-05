@@ -508,9 +508,11 @@ Muskelwachstum ist stark davon abhängig, wie häufig ein Muskel durch effektive
 
 Schauen wir uns den Unterschied mathematisch an:
 
-Person        Muskelreize pro Woche        Wochen pro Jahr        Muskelreize pro Jahr
-A             1 Reiz/Muskel                52                     52 Reize pro Muskel
-B             4 Reize/Muskel               52                     208 Reize pro Muskel
+|  Person                      |  Muskelreize pro Woche            |  Wochen pro Jahr              |  Muskelreize pro Jahr        |
+|------------------------------|-----------------------------------|-------------------------------|------------------------------|
+|A                             |1 Reiz/Muskel                      |52                             |52 Reize pro Muskel           |
+|B                             |4 Reize/Muskel                     |52                             |208 Reize pro Muskel          |
+
 
 → Bei gleichem Volumen erzielt Person B viermal so viele Wachstumsreize über das Jahr hinweg.
 
