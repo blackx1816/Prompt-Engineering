@@ -211,7 +211,7 @@ Ich bat darum, die Punkte "Wachstumsreiz" und "Rekrutierung motorischer Einheite
 
 **Wie maximiert man mechanische Spannung im Training?**
 
-2.1 Das Problem mit zu seltener Belastung
+2.1 Das Problem mit zu seltener Belastung <br>
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
 
 Warum?
