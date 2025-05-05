@@ -104,7 +104,7 @@ Mache mit 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung weiter
 
 ### Antwort
 
-####Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
+#### Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
 
 
 **1.1 Was ist mechanische Spannung?** <br>
@@ -139,14 +139,14 @@ Mache mit Abschnitt 2 („Wie maximiert man mechanische Spannung im Training?“
 
 #### Wie maximiert man mechanische Spannung im Training?
 
-2.1 Das Problem mit zu seltener Belastung <br>
+**2.1 Das Problem mit zu seltener Belastung** <br>
 Viele Anfänger folgen klassischen „Bro-Split“-Trainingsplänen, bei denen jeder Muskel nur einmal pro Woche trainiert wird – zum Beispiel Brust am Montag, Rücken am Dienstag usw. Das Problem: Obwohl das Trainingsvolumen pro Einheit oft hoch ist, erhält der Muskel nur einen einzigen Reiz pro Woche.
 
 Das klingt zunächst ausreichend, aber der Körper reagiert anders: Der Wachstumsreiz durch mechanische Spannung hält nur für eine begrenzte Zeit an – etwa 24 bis 48 Stunden. Danach kehrt der Muskel in einen neutralen Zustand zurück. Wird er dann tagelang nicht mehr beansprucht, geht ein Großteil des Reizes verloren, bevor er erneut stimuliert wird.
 
 So entsteht eine Lücke zwischen Reiz und Anpassung, was langfristig den Muskelaufbau bremst. Gerade Anfänger verschenken hier viel Potenzial.
 
-2.2 Die Lösung: Häufigere Trainingsreize
+**2.2 Die Lösung: Häufigere Trainingsreize** <br>
 Die Antwort liegt in einem smarteren Trainingsansatz: Hochfrequenztraining. Dabei wird jeder Muskel mehrmals pro Woche, oft zwei- bis dreimal, gezielt belastet – idealerweise bei gleichem oder leicht reduziertem Volumen pro Einheit.
 
 Das hat mehrere Vorteile:
@@ -169,7 +169,7 @@ Ich bat darum, den Aspekt "Rekrutierung der motorischen Einheiten" zu erwähnen,
 
 **Wie maximiert man mechanische Spannung im Training?**
 
-2.1 Das Problem mit zu seltener Belastung
+**2.1 Das Problem mit zu seltener Belastung** <br>
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
 
 Warum?
@@ -198,7 +198,7 @@ Du erreichst mehr effektive Wiederholungen, weil du weniger ermüdet bist.
 
 Deine Muskulatur bekommt über die Woche mehr hochwertige Reize, die tatsächlich Muskelwachstum auslösen.
 
-Fazit:
+**Fazit:**
 Wenn du wachsen willst, brauchst du möglichst viele frische, effektive Sätze – und das gelingt am besten, wenn du mit höherer Frequenz trainierst, statt alles in eine lange Einheit zu pressen.
 
 ### Verfeinerung
