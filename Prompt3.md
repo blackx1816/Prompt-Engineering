@@ -104,7 +104,7 @@ Mache mit 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung weiter
 
 ### Antwort
 
-1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
+**Der Hauptfaktor für Muskelwachstum: Mechanische Spannung**
 
 
 1.1 Was ist mechanische Spannung?
