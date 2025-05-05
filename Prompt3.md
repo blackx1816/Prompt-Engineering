@@ -104,10 +104,10 @@ Mache mit 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung weiter
 
 ### Antwort
 
-**Der Hauptfaktor für Muskelwachstum: Mechanische Spannung**
+####Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
 
 
-1.1 Was ist mechanische Spannung?
+**1.1 Was ist mechanische Spannung?** <br>
 Mechanische Spannung entsteht, wenn ein Muskel gegen einen Widerstand arbeitet – sei es durch Hanteltraining, Körpergewicht oder Maschinen. Je höher der Widerstand und je stärker der Muskel dabei unter Spannung steht, desto größer ist dieser Reiz.
 Dabei ist nicht nur das Gewicht entscheidend, sondern auch wie lange und wie intensiv ein Muskel während einer Übung unter Spannung steht. Eine saubere Ausführung, bei der die Zielmuskulatur aktiv arbeiten muss, ist hier der Schlüssel.
 
@@ -117,7 +117,7 @@ Passive Spannung, die entsteht, wenn ein Muskel in gedehnter Position Kraft spei
 
 und aktive Spannung, bei der der Muskel aktiv gegen den Widerstand arbeitet (z. B. beim Hochdrücken einer Langhantel).
 
-1.2 Warum mechanische Spannung der entscheidende Faktor ist
+**1.2 Warum mechanische Spannung der entscheidende Faktor ist** <br>
 Die Wissenschaft ist sich weitgehend einig: Mechanische Spannung ist der primäre Reiz für Muskelwachstum – noch vor metabolischem Stress oder Muskelschäden. Wenn ein Muskel regelmäßig mit ausreichend hoher Spannung belastet wird, passt sich der Körper an, indem er die Muskulatur verstärkt – ein klassischer Anpassungsprozess.
 
 Studien zeigen, dass Trainingsprogramme mit höherer wöchentlicher Spannung (also mehr effektiven Reizen) in der Regel zu mehr Muskelaufbau führen – selbst wenn das Volumen gleich bleibt. Entscheidend ist dabei nicht nur wie viel man trainiert, sondern wie oft diese Spannung in der Woche erzeugt wird.
@@ -137,9 +137,9 @@ Mache mit Abschnitt 2 („Wie maximiert man mechanische Spannung im Training?“
 
 ### Antwort
 
-**Wie maximiert man mechanische Spannung im Training?**
+#### Wie maximiert man mechanische Spannung im Training?
 
-2.1 Das Problem mit zu seltener Belastung
+2.1 Das Problem mit zu seltener Belastung <br>
 Viele Anfänger folgen klassischen „Bro-Split“-Trainingsplänen, bei denen jeder Muskel nur einmal pro Woche trainiert wird – zum Beispiel Brust am Montag, Rücken am Dienstag usw. Das Problem: Obwohl das Trainingsvolumen pro Einheit oft hoch ist, erhält der Muskel nur einen einzigen Reiz pro Woche.
 
 Das klingt zunächst ausreichend, aber der Körper reagiert anders: Der Wachstumsreiz durch mechanische Spannung hält nur für eine begrenzte Zeit an – etwa 24 bis 48 Stunden. Danach kehrt der Muskel in einen neutralen Zustand zurück. Wird er dann tagelang nicht mehr beansprucht, geht ein Großteil des Reizes verloren, bevor er erneut stimuliert wird.
