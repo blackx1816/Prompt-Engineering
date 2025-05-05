@@ -451,6 +451,14 @@ Kraftsteigerung                     Plateau nach einigen Wochen       Kontinuier
 Motivation & Energie                Schwankend, oft ausgelaugt        Höher, da kürzere Sessions
 Effektive Wiederholungen/Woche      Niedrig                           Hoch
 
+| Merkmal                      |  Person A (Low Frequency)         |  Person B (High Frequency)    |
+|------------------------------|-----------------------------------|-------------------------------|
+|Muskelwachstum                |Langsam & inkonsistent             |Konstant & sichtbar            |
+|Technikentwicklung            |Langsam, da seltener geübt         |Schnell, da häufiger geübt     |
+|Kraftsteigerung               |Plateau nach einigen Wochen        |Kontinuierlicher Anstieg       |
+|Motivation & Energie          |Schwankend, oft ausgelaugt         |Höher, da kürzere Sessions     |
+|Effektive Wiederholungen/Woche|Niedrig                            |Hoch                           |
+
 **Fazit:**
 Obwohl beide das gleiche Trainingsvolumen absolvieren, erzielt Person B deutlich bessere Ergebnisse – weil sie das Volumen auf mehrere effektive, qualitativ hochwertige Einheiten verteilt.
 
