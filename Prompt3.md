@@ -33,7 +33,8 @@ Was ist das Ziel des Artikels?
 (Aufzeigen, warum höhere Trainingsfrequenz – bei gleichem Volumen – zu mehr Muskelwachstum führt)
 
 #### 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
-**1.1 Was ist mechanische Spannung?** 
+**1.1 Was ist mechanische Spannung?**
+
 Definition in einfachen Worten
 
 **1.2 Warum mechanische Spannung der entscheidende Faktor ist** 
