@@ -23,50 +23,50 @@ Mit mir eine Gliederung des Artikels mit Überschriften und Sub-Überschriften. 
 ### Antwort
 
 #### Einleitung
-- Was bedeutet Trainingsfrequenz?
-- (z. B. wie oft ein Muskel pro Woche trainiert wird)
+Was bedeutet Trainingsfrequenz?
+(z. B. wie oft ein Muskel pro Woche trainiert wird)
 
-- Was bedeutet Trainingsvolumen?
-- (z. B. Sätze x Wiederholungen x Gewicht pro Muskel/Woche)
+Was bedeutet Trainingsvolumen?
+(z. B. Sätze x Wiederholungen x Gewicht pro Muskel/Woche)
 
-- Was ist das Ziel des Artikels?
-- (Aufzeigen, warum höhere Trainingsfrequenz – bei gleichem Volumen – zu mehr Muskelwachstum führt)
+Was ist das Ziel des Artikels?
+(Aufzeigen, warum höhere Trainingsfrequenz – bei gleichem Volumen – zu mehr Muskelwachstum führt)
 
 #### 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
 **1.1 Was ist mechanische Spannung?**
-- Definition in einfachen Worten
+Definition in einfachen Worten
 
 **1.2 Warum mechanische Spannung der entscheidende Faktor ist**
-- Aktuelle Studienlage
+Aktuelle Studienlage
 
 #### 2. Wie maximiert man mechanische Spannung im Training?
 **2.1 Das Problem mit zu seltener Belastung**
-- Warum ein Muskel nicht wächst, wenn er nur einmal pro Woche trainiert wird
+Warum ein Muskel nicht wächst, wenn er nur einmal pro Woche trainiert wird
 
-- Der Reiz verpufft – Muskel baut bis zum nächsten Reiz wieder ab
+Der Reiz verpufft – Muskel baut bis zum nächsten Reiz wieder ab
 
 **2.2 Die Lösung: Häufigere Trainingsreize**
-- Hochfrequenztraining = mehr effektive Spannung pro Woche
+Hochfrequenztraining = mehr effektive Spannung pro Woche
 
-- Kürzere Einheiten, aber konsistenterer Reiz
+Kürzere Einheiten, aber konsistenterer Reiz
 
 #### 3. Zwei Anfänger, zwei Wege – ein Vergleich
-- **3.1 Person A: Trainiert jeden Muskel nur 1x pro Woche (Low Frequency)**
-- **3.2 Person B: Trainiert jeden Muskel 3x pro Woche (High Frequency)**
-- **3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?**
+**3.1 Person A: Trainiert jeden Muskel nur 1x pro Woche (Low Frequency)**
+**3.2 Person B: Trainiert jeden Muskel 3x pro Woche (High Frequency)**
+**3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?**
 
 #### 4. Was bedeutet das für dein Training?
-- **4.1 Warum du häufiger trainieren solltest – selbst als Anfänger**
-- Mehr Muskelaufbau durch häufige Spannung
+**4.1 Warum du häufiger trainieren solltest – selbst als Anfänger**
+Mehr Muskelaufbau durch häufige Spannung
 
-- Geringeres Verletzungsrisiko, bessere Lernkurve
+Geringeres Verletzungsrisiko, bessere Lernkurve
 
-- **4.2 Tipps für den Einstieg ins Hochfrequenztraining**
-- Ganzkörpertraining 3x/Woche als Grundlage
+**4.2 Tipps für den Einstieg ins Hochfrequenztraining**
+Ganzkörpertraining 3x/Woche als Grundlage
 
-- Fokus auf Grundübungen, progressives Überladen, Technik
+Fokus auf Grundübungen, progressives Überladen, Technik
 
-- Beispieltrainingsplan
+Beispieltrainingsplan
 
 #### Fazit
 Wiederholung der Hauptaussage:
