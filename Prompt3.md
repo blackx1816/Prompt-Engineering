@@ -37,9 +37,11 @@ Was ist das Ziel des Artikels?
 
 Definition in einfachen Worten
 
+
 **1.2 Warum mechanische Spannung der entscheidende Faktor ist** 
 
 Aktuelle Studienlage
+
 
 #### 2. Wie maximiert man mechanische Spannung im Training? 
 **2.1 Das Problem mit zu seltener Belastung** 
@@ -48,11 +50,13 @@ Warum ein Muskel nicht wächst, wenn er nur einmal pro Woche trainiert wird
 
 Der Reiz verpufft – Muskel baut bis zum nächsten Reiz wieder ab
 
+
 **2.2 Die Lösung: Häufigere Trainingsreize** 
 
 Hochfrequenztraining = mehr effektive Spannung pro Woche
 
 Kürzere Einheiten, aber konsistenterer Reiz
+
 
 #### 3. Zwei Anfänger, zwei Wege – ein Vergleich 
 **3.1 Person A: Trainiert jeden Muskel nur 1x pro Woche (Low Frequency)** 
