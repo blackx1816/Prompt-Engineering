@@ -440,16 +440,16 @@ Mehr Wiederholung der Bewegung → schnellerer Technikfortschritt
 
 Durch die höhere Frequenz wird also bei gleichem Volumen mehr mechanische Spannung auf effektive Weise erzeugt – und das führt direkt zu mehr Muskelwachstum.
 
-**3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?**
+**3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?** <br>
 
 Nach acht Wochen zeigen sich deutliche Unterschiede:
 
-Merkmal        Person A (Low Frequency)        Person B (High Frequency)
-Muskelwachstum        Langsam & inkonsistent        Konstant & sichtbar
-Technikentwicklung        Langsam, da seltener geübt        Schnell, da häufiger geübt
-Kraftsteigerung        Plateau nach einigen Wochen        Kontinuierlicher Anstieg
-Motivation & Energie        Schwankend, oft ausgelaugt        Höher, da kürzere Sessions
-Effektive Wiederholungen/Woche        Niedrig        Hoch
+Merkmal                             Person A (Low Frequency)          Person B (High Frequency)
+Muskelwachstum                      Langsam & inkonsistent            Konstant & sichtbar
+Technikentwicklung                  Langsam, da seltener geübt        Schnell, da häufiger geübt
+Kraftsteigerung                     Plateau nach einigen Wochen       Kontinuierlicher Anstieg
+Motivation & Energie                Schwankend, oft ausgelaugt        Höher, da kürzere Sessions
+Effektive Wiederholungen/Woche      Niedrig                           Hoch
 
 **Fazit:**
 Obwohl beide das gleiche Trainingsvolumen absolvieren, erzielt Person B deutlich bessere Ergebnisse – weil sie das Volumen auf mehrere effektive, qualitativ hochwertige Einheiten verteilt.
