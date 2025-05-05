@@ -105,6 +105,8 @@ Mache mit 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung weiter
 ### Antwort
 
 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
+
+
 1.1 Was ist mechanische Spannung?
 Mechanische Spannung entsteht, wenn ein Muskel gegen einen Widerstand arbeitet – sei es durch Hanteltraining, Körpergewicht oder Maschinen. Je höher der Widerstand und je stärker der Muskel dabei unter Spannung steht, desto größer ist dieser Reiz.
 Dabei ist nicht nur das Gewicht entscheidend, sondern auch wie lange und wie intensiv ein Muskel während einer Übung unter Spannung steht. Eine saubere Ausführung, bei der die Zielmuskulatur aktiv arbeiten muss, ist hier der Schlüssel.
