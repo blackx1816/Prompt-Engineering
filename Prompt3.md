@@ -32,15 +32,19 @@ Was bedeutet Trainingsvolumen?
 Was ist das Ziel des Artikels?
 (Aufzeigen, warum höhere Trainingsfrequenz – bei gleichem Volumen – zu mehr Muskelwachstum führt)
 
+
+
 #### 1. Der Hauptfaktor für Muskelwachstum: Mechanische Spannung
 **1.1 Was ist mechanische Spannung?**
 
 Definition in einfachen Worten
 
 
+
 **1.2 Warum mechanische Spannung der entscheidende Faktor ist** 
 
 Aktuelle Studienlage
+
 
 
 #### 2. Wie maximiert man mechanische Spannung im Training? 
@@ -51,11 +55,13 @@ Warum ein Muskel nicht wächst, wenn er nur einmal pro Woche trainiert wird
 Der Reiz verpufft – Muskel baut bis zum nächsten Reiz wieder ab
 
 
+
 **2.2 Die Lösung: Häufigere Trainingsreize** 
 
 Hochfrequenztraining = mehr effektive Spannung pro Woche
 
 Kürzere Einheiten, aber konsistenterer Reiz
+
 
 
 #### 3. Zwei Anfänger, zwei Wege – ein Vergleich 
@@ -72,6 +78,8 @@ Mehr Muskelaufbau durch häufige Spannung
 
 Geringeres Verletzungsrisiko, bessere Lernkurve
 
+
+
 **4.2 Tipps für den Einstieg ins Hochfrequenztraining** 
 
 Ganzkörpertraining 3x/Woche als Grundlage
@@ -79,6 +87,8 @@ Ganzkörpertraining 3x/Woche als Grundlage
 Fokus auf Grundübungen, progressives Überladen, Technik
 
 Beispieltrainingsplan
+
+
 
 #### Fazit
 Wiederholung der Hauptaussage:
