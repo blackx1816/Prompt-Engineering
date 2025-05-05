@@ -167,7 +167,7 @@ Ich bat darum, den Aspekt "Rekrutierung der motorischen Einheiten" zu erwähnen,
 
 ### Antwort (V2)
 
-**Wie maximiert man mechanische Spannung im Training?**
+#### Wie maximiert man mechanische Spannung im Training?
 
 **2.1 Das Problem mit zu seltener Belastung** <br>
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
@@ -209,9 +209,9 @@ Ich bat darum, die Punkte "Wachstumsreiz" und "Rekrutierung motorischer Einheite
 
 ### Antwort (V3)
 
-**Wie maximiert man mechanische Spannung im Training?**
+#### Wie maximiert man mechanische Spannung im Training?
 
-2.1 Das Problem mit zu seltener Belastung <br>
+**2.1 Das Problem mit zu seltener Belastung** <br>
 Viele Anfänger trainieren nach dem klassischen „Bro-Split“-Prinzip: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen belastet – zum Beispiel Brust am Montag mit 15 bis 20 Sätzen. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelaufbaus nicht optimal.
 
 Warum?
@@ -252,9 +252,10 @@ Ich bat darum, Die "Lösung" (das Volumen auf mehrere Tage aufzuteilen), nicht i
 
 ### Antwort (V4)
 
-**Wie maximiert man mechanische Spannung im Training?**
+#### Wie maximiert man mechanische Spannung im Training?
 
-2.1 Das Problem mit zu seltener Belastung
+**2.1 Das Problem mit zu seltener Belastung** <br>
+
 Viele Anfänger folgen klassischen „Bro-Split“-Trainingsplänen: Jeder Muskel wird nur einmal pro Woche mit vielen Sätzen trainiert – zum Beispiel Brust mit 15 bis 20 Sätzen am Montag. Das wirkt auf den ersten Blick intensiv, ist aber aus Sicht des Muskelwachstums nicht ideal.
 
 Denn entscheidend für Muskelaufbau ist nicht nur, wie viel man trainiert, sondern wie effektiv jeder einzelne Satz ist – sprich: ob er einen echten Wachstumsreiz setzt.
@@ -286,9 +287,9 @@ Ich bat darum, die Punkte a.) Proteinbiosynthese hält nur 48 Std. an (Atrophie)
 
 ### Antwort (V5)
 
-**Wie maximiert man mechanische Spannung im Training?**
+#### Wie maximiert man mechanische Spannung im Training?
 
-2.1 Das Problem mit zu seltener Belastung
+**2.1 Das Problem mit zu seltener Belastung**
 Viele Trainierende setzen auf niedrige Trainingsfrequenz – typischerweise ein Muskel einmal pro Woche mit hohem Volumen. Auf dem Papier klingt das effizient: viel Arbeit auf einmal, viel Erschöpfung, großer Trainingsreiz. Doch aus physiologischer Sicht bringt dieser Ansatz zwei entscheidende Probleme mit sich:
 
 1. Proteinbiosynthese hält nur etwa 48 Stunden an
@@ -314,7 +315,7 @@ Je länger das Training dauert, desto weniger effektiv werden deine Sätze.
 
 Die Konsequenz: Ein großer Teil deines Trainingsvolumens verliert an Qualität – und damit auch an Muskelaufbaureiz.
 
-Fazit von 2.1:
+**Fazit von 2.1:**
 Niedrige Trainingsfrequenz verschwendet Zeit zwischen den Reizen (wegen der begrenzten Dauer der Proteinbiosynthese) und reduziert die Qualität der Reize durch zunehmende Ermüdung innerhalb der Einheit. Beides limitiert den Muskelaufbau – obwohl das Volumen hoch ist.
 
 
@@ -330,7 +331,10 @@ Schreibe den Abschnitt 2.2
 
 ### Antwort
 
-2.2 Die Lösung: Häufigere Trainingsreize
+#### Die Lösung 
+
+**2.2 Häufigere Trainingsreize**
+
 Wie lässt sich das Problem lösen, dass viele Sätze an einem Tag zwar anstrengend, aber oft ineffektiv sind?
 
 Die Antwort lautet: Trainiere mit höherer Frequenz.
@@ -360,7 +364,9 @@ Ich bat darum, einen direkteren Bezug auf die Faktoren a.) Proteinbiosynthese h�
 
 ### Antwort (V2)
 
-2.2 Die Lösung: Häufigere Trainingsreize (High Frequency)
+#### Die Lösung
+**2.2 Häufigere Trainingsreize (High Frequency)**
+
 Ein High-Frequency-Ansatz – zum Beispiel Ganzkörpertraining alle zwei Tage – berücksichtigt genau diese zwei limitierenden Faktoren und löst sie systematisch:
 
 1. Proteinbiosynthese optimal nutzen
@@ -386,12 +392,12 @@ Höhere mechanische Spannung bei gleichbleibendem Volumen
 
 Mehr effektive Spannung = mehr Muskelreiz = mehr Wachstum
 
-Fazit von 2.2:
+**Fazit von 2.2:**
 High-Frequency-Training bringt mehr Reize in kürzeren Abständen und sorgt dafür, dass jeder einzelne Reiz hochwertig ist. Es nutzt die Biologie des Körpers intelligent aus – statt gegen sie zu arbeiten.
 
 ### Bewertung
 
-Diese VErsion wurde übernommen
+Diese Version wurde übernommen
 
 ## Abschnitt 3.1 - 3.3
 
@@ -401,8 +407,10 @@ Schreibe Abschnitt 3.1–3.3
 
 ### Antwort
 
-3. Zwei Anfänger, zwei Wege – ein Vergleich
-3.1 Person A: Trainiert jeden Muskel nur 1x pro Woche (Low Frequency)
+#### Zwei Anfänger, zwei Wege – ein Vergleich <br>
+
+**3.1 Person A: Trainiert jeden Muskel nur 1x pro Woche (Low Frequency)**
+
 Person A folgt einem klassischen Split-Training:
 
 Montag: Brust
@@ -417,7 +425,8 @@ Jeder Muskel wird einmal pro Woche isoliert mit hohem Volumen (15–20 Sätze) t
 In den ersten Sätzen ist Person A noch frisch: Die Ausführung ist sauber, die Kraft ist hoch, und die letzten Wiederholungen bringen gute Spannung. Doch schon ab Satz 5–6 tritt deutliche Ermüdung ein. Das Gewicht sinkt, die Technik leidet – und die entscheidenden motorischen Einheiten werden nur noch unzureichend aktiviert.
 Obwohl viel Zeit und Energie investiert werden, sind am Ende viele Sätze kaum noch effektiv. Und der nächste Reiz? Kommt erst in einer Woche. Bis dahin hat der Körper einen Großteil der Trainingsanpassung schon wieder verloren.
 
-3.2 Person B: Trainiert jeden Muskel 3x pro Woche (High Frequency)
+**3.2 Person B: Trainiert jeden Muskel 3x pro Woche (High Frequency)**
+
 Person B trainiert nach einem Ganzkörperplan – zum Beispiel montags, mittwochs und freitags.
 Jede Einheit enthält 4–6 Grundübungen mit jeweils moderatem Volumen (z. B. 3 Sätze pro Muskelgruppe). Über die Woche kommt Person B auf das gleiche Gesamtvolumen wie Person A – aber verteilt auf drei frische Reize.
 
@@ -431,7 +440,8 @@ Mehr Wiederholung der Bewegung → schnellerer Technikfortschritt
 
 Durch die höhere Frequenz wird also bei gleichem Volumen mehr mechanische Spannung auf effektive Weise erzeugt – und das führt direkt zu mehr Muskelwachstum.
 
-3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?
+**3.3 Fortschritt nach 8 Wochen: Wer steht besser da – und warum?**
+
 Nach acht Wochen zeigen sich deutliche Unterschiede:
 
 Merkmal        Person A (Low Frequency)        Person B (High Frequency)
@@ -441,7 +451,7 @@ Kraftsteigerung        Plateau nach einigen Wochen        Kontinuierlicher Ansti
 Motivation & Energie        Schwankend, oft ausgelaugt        Höher, da kürzere Sessions
 Effektive Wiederholungen/Woche        Niedrig        Hoch
 
-Fazit:
+**Fazit:**
 Obwohl beide das gleiche Trainingsvolumen absolvieren, erzielt Person B deutlich bessere Ergebnisse – weil sie das Volumen auf mehrere effektive, qualitativ hochwertige Einheiten verteilt.
 
 ### Verfeinerung
@@ -452,8 +462,9 @@ Ich bat darum, die Trainingspläne, sowie das Gesamtvolumen und das Volumen pro 
 
 ### Antwort (V2)
 
-3. Zwei Anfänger, zwei Wege – ein Vergleich
-3.1 Person A: 4 Trainingstage – ein Muskel pro Einheit
+#### Zwei Anfänger, zwei Wege – ein Vergleich
+**3.1 Person A: 4 Trainingstage – ein Muskel pro Einheit**
+
 Person A trainiert viermal pro Woche – klassisch aufgeteilt nach Muskelgruppen:
 
 Montag: Brust (12 Sätze)
@@ -466,7 +477,8 @@ Samstag: Beine (12 Sätze)
 
 Für jeden Muskel werden alle 12 Sätze an einem einzigen Tag absolviert. Das bedeutet: Der Muskel wird nur einmal pro Woche belastet – mit hohem Volumen auf einmal. Die ersten Sätze sind noch kraftvoll und technisch sauber, aber ab Satz 6–7 treten Ermüdung und Konzentrationsverlust ein. Die spätere Satzqualität sinkt, die effektiven Wiederholungen nehmen ab. Der nächste Reiz kommt erst nach sieben Tagen – zu spät, um das volle Anpassungspotenzial zu nutzen.
 
-3.2 Person B: Ganzkörpertraining jeden zweiten Tag
+**3.2 Person B: Ganzkörpertraining jeden zweiten Tag**
+
 Person B trainiert jeden zweiten Tag – also durchschnittlich 3–4 Mal pro Woche – mit einem Ganzkörperplan.
 Das bedeutet: Jede Muskelgruppe wird mehrmals pro Woche mit wenigen Sätzen belastet, zum Beispiel:
 
@@ -483,14 +495,14 @@ Weil jeder dieser 3-Satz-Abschnitte frisch begonnen wird, sind mehr dieser Sätz
 Und entscheidend:
 Der Muskel erhält vier separate Wachstumsreize pro Woche – statt nur einen.
 
-3.3 Warum macht das so einen großen Unterschied?
+**3.3 Warum macht das so einen großen Unterschied?**
 Muskelwachstum ist stark davon abhängig, wie häufig ein Muskel durch effektive Spannung stimuliert wird. Studien zeigen: Nicht nur das Volumen, sondern auch die Anzahl der Reize pro Woche korreliert mit dem Muskelwachstum.
 
 Schauen wir uns den Unterschied mathematisch an:
 
 Person        Muskelreize pro Woche        Wochen pro Jahr        Muskelreize pro Jahr
-A        1 Reiz/Muskel        52        52 Reize pro Muskel
-B        4 Reize/Muskel        52        208 Reize pro Muskel
+A             1 Reiz/Muskel                52                     52 Reize pro Muskel
+B             4 Reize/Muskel               52                     208 Reize pro Muskel
 
 → Bei gleichem Volumen erzielt Person B viermal so viele Wachstumsreize über das Jahr hinweg.
 
@@ -520,8 +532,10 @@ V2 wurde übernommen
 
 ### Antwort
 
-4. Was bedeutet das für dein Training?
-4.1 Warum du häufiger trainieren solltest – selbst als Anfänger
+#### Was bedeutet das für dein Training?
+
+**4.1 Warum du häufiger trainieren solltest – selbst als Anfänger**
+
 Wenn du verstanden hast, dass Muskelwachstum durch regelmäßige, qualitativ hochwertige Reize entsteht, ergibt sich eine einfache Schlussfolgerung:
 
 Nicht mehr Training ist besser – sondern besser verteiltes Training.
@@ -552,7 +566,8 @@ und langfristig das Verletzungsrisiko.
 
 Kurz: Du baust effizienter Muskulatur auf – bei besserer Regeneration und höherer Konstanz.
 
-4.2 Tipps für den Einstieg ins Hochfrequenztraining
+**4.2 Tipps für den Einstieg ins Hochfrequenztraining**
+
 Du willst sofort umsteigen? Hier sind einfache und effektive Möglichkeiten:
 
 1. Ganzkörpertraining – 3 bis 4x pro Woche
@@ -586,7 +601,7 @@ Lieber sauberer & konzentrierter als viel & schlampig
 
 Ziel: progressiv steigern – mehr Gewicht, mehr Wiederholungen oder kontrolliertere Ausführung
 
-Fazit
+**Fazit**
 Die effektivste Art zu trainieren ist nicht die härteste – sondern die intelligenteste.
 Wenn du dein Volumen sinnvoll aufteilst, regelmäßig trainierst und mechanische Spannung gezielt erzeugst, wirst du besser, schneller und nachhaltiger Muskeln aufbauen.
 
@@ -602,8 +617,10 @@ Ich bat darum, die Betonung auf "Änfänger" wegzulassen und stattdessen eine al
 
 ### Antwort (V2)
 
-4. Was bedeutet das für dein Training?
-4.1 Warum du häufiger trainieren solltest
+#### Was bedeutet das für dein Training?
+
+**4.1 Warum du häufiger trainieren solltest**
+
 Wenn du das volle Potenzial deines Trainings ausschöpfen willst, solltest du mechanische Spannung so regelmäßig wie möglich erzeugen – ohne dabei die Qualität deiner Sätze zu gefährden.
 Ein hoher Trainingsreiz entsteht dann, wenn:
 
@@ -616,7 +633,8 @@ und du damit mehr effektive Wiederholungen pro Woche sammelst.
 Ein High-Frequency-Ansatz erfüllt genau diese Voraussetzungen – er erlaubt mehr Muskelreize pro Woche, verteilt dein Volumen besser und sorgt dafür, dass du konstant neue Wachstumsreize setzen kannst.
 Und das alles ohne mehr Gesamtzeit im Gym zu verbringen.
 
-4.2 Trainingsstruktur: So setzt du High Frequency sinnvoll um
+**4.2 Trainingsstruktur: So setzt du High Frequency sinnvoll um**
+
 1. Starte mit Ganzkörpertraining – 3 bis 4x pro Woche
 Der effizienteste Einstieg in einen High-Frequency-Ansatz ist ein Ganzkörpertraining.
 Warum? Es ist einfach zu planen, deckt alle Muskelgruppen ab und lässt sich gut mit Alltags- oder Arbeitsstress vereinbaren.
@@ -651,7 +669,7 @@ Montag/Donnerstag: Oberkörper
 Dienstag/Freitag: Unterkörper
 → weiterhin hohe Frequenz (2x/Woche pro Muskel), aber mit mehr Volumen pro Einheit
 
-Fazit
+**Fazit**
 Trainingsfrequenz ist kein Detail – sie ist ein zentraler Hebel für Muskelwachstum.
 Wer seine Sätze auf mehrere Einheiten verteilt, trainiert effizienter, erzeugt mehr Spannung mit höherer Qualität und setzt häufiger Wachstumsreize.
 
